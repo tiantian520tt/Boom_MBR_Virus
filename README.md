@@ -1,4 +1,4 @@
-# MBR Virus!
+# Boom?A MBR Virus!
 This is an MBR virus written in C + +. Its power can be imagined. It is being updated continuously.
 # What should I pay attention to?
 Be careful! Don't run it on your own computer. That's very unfriendly to your computer. Now, of course, there are ways to fix it. But there is no guarantee that we will not develop a very stubborn MBR virus in the future.
